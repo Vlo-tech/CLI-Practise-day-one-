@@ -1,0 +1,5 @@
+Using Cli is easier than using GUI if you master it 
+When using the CLi you only need a screen and mouse 
+you only write command prompts when using cli 
+Using the Cli is faster 
+You cant change the appearance of the cli 
